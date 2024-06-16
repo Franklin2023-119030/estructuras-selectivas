@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	int compra, paga;
+	cout<<"Que tal, como esta. "<<endl;
 	cout<<"Ingrese el precio de la compra :";
 	cin>>compra;
 	if (compra>=1000){
