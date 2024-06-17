@@ -10,5 +10,7 @@ int main(){
 		cout<<"El total a pagar sera :"<<paga<<endl;
 	} else{
 		cout<<"El total a pagar sera :"<<compra<<endl;
-	} return 0;
+	} 
+	cout<<"Gracias por su compra."<<endl;
+	return 0;
 }
