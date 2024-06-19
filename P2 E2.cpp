@@ -22,6 +22,8 @@ int main(){
 	} else{
 		cout<<"El dinero es insuficiento . "<<endl;
 	}
+	
 	cout<<"Gracias por su compra."<<endl;
+	cout<<"Le deseo un buen dia."<<endl;
 	return 0;
 }
