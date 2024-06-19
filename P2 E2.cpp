@@ -3,6 +3,7 @@ using namespace std;
 int main(){
 	int compra, pago, vuelto;
 	cout<<"Que tal, como esta. "<<endl;
+	cout<<"Yo lo atendere el dia de hoy"<<endl;
 	cout<<"Ingrese el precio de la compra :";
 	cin>>compra;
 	cout<<"Con cuanto piensa pagar :";
